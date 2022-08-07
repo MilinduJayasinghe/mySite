@@ -1,1 +1,1 @@
-# mySite
+# my-site
